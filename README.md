@@ -1,4 +1,4 @@
-# C++ Competitive Programming Project
+# C++ Competitive Programming Problems
 
 This project is designed to facilitate solving competitive programming problems using C++. It includes templates and a structure that can be easily adapted for various challenges.
 
